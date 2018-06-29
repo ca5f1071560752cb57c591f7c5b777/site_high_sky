@@ -43,7 +43,7 @@ cd site_high_sky
 
 ### Установка зависимостей
 ```
-pip install -r requirements.txt
+pip3.6 install -r requirements.txt
 ```
 
 ### Проверочные данные
