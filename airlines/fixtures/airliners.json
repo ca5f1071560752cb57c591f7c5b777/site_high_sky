@@ -1,0 +1,18 @@
+[
+    {
+        "pk": "11",
+        "model": "airlines.Airliner",
+        "fields": {
+            "name": "fleet1",
+            "title": "Boeing 747-400"
+        }
+    },
+    {
+        "pk": "12",
+        "model": "airlines.Airliner",
+        "fields": {
+            "name": "fleet2",
+            "title": "Airbus A380-800"
+        }
+    }
+]

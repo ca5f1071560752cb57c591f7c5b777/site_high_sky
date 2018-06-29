@@ -1,0 +1,34 @@
+[
+    {
+        "pk": "51",
+        "model": "airlines.Airport",
+        "fields": {
+            "name": "svo",
+            "title": "Москва (Шереметьево)"
+        }
+    },
+    {
+        "pk": "52",
+        "model": "airlines.Airport",
+        "fields": {
+            "name": "led",
+            "title": "Санкт Петербург (Пулково)"
+        }
+    },
+    {
+        "pk": "53",
+        "model": "airlines.Airport",
+        "fields": {
+            "name": "vko",
+            "title": "Москва (Внуково)"
+        }
+    },
+    {
+        "pk": "54",
+        "model": "airlines.Airport",
+        "fields": {
+            "name": "dme",
+            "title": "Москва (Домодедово)"
+        }
+    }
+]

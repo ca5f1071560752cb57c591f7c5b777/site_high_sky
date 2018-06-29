@@ -1,0 +1,21 @@
+[
+    {
+        "pk": "11",
+        "model": "airlines.Flight",
+        "fields": {
+            "route": "21",
+            "departure": "51",
+            "arrival": "52",
+            "order": "1"
+        }
+    },
+    {
+        "pk": "31",
+        "model": "airlines.ScheduleRecord",
+        "fields": {
+            "day": "1",
+            "route": "21",
+            "per_day": "2"
+        }
+    }
+]

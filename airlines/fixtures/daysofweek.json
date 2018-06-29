@@ -1,0 +1,51 @@
+[
+    {
+        "pk": "1",
+        "model": "airlines.DayOfWeek",
+        "fields": {
+            "title": "Понедельник"
+        }
+    },
+    {
+        "pk": "2",
+        "model": "airlines.DayOfWeek",
+        "fields": {
+            "title": "Вторник"
+        }
+    },
+    {
+        "pk": "3",
+        "model": "airlines.DayOfWeek",
+        "fields": {
+            "title": "Среда"
+        }
+    },
+    {
+        "pk": "4",
+        "model": "airlines.DayOfWeek",
+        "fields": {
+            "title": "Четверг"
+        }
+    },
+    {
+        "pk": "5",
+        "model": "airlines.DayOfWeek",
+        "fields": {
+            "title": "Пятница"
+        }
+    },
+    {
+        "pk": "6",
+        "model": "airlines.DayOfWeek",
+        "fields": {
+            "title": "Суббота"
+        }
+    },
+    {
+        "pk": "7",
+        "model": "airlines.DayOfWeek",
+        "fields": {
+            "title": "Воскресенье"
+        }
+    }
+]
