@@ -37,7 +37,7 @@ sudo apt-get install postgresql
 ### Клонирование репозитория
 
 ```
-git clone git@github.com:FIXME
+git clone https://github.com/ca5f1071560752cb57c591f7c5b777/site_high_sky.git
 cd site_high_sky
 ```
 
